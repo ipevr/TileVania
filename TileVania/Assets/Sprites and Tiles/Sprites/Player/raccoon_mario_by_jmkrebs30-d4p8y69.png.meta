@@ -1,0 +1,3165 @@
+fileFormatVersion: 2
+guid: b4974931476a5df44b54eda64a72767f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: raccoon_mario_by_jmkrebs30-d4p8y69_0
+    21300002: raccoon_mario_by_jmkrebs30-d4p8y69_1
+    21300004: raccoon_mario_by_jmkrebs30-d4p8y69_2
+    21300006: raccoon_mario_by_jmkrebs30-d4p8y69_3
+    21300008: raccoon_mario_by_jmkrebs30-d4p8y69_4
+    21300010: raccoon_mario_by_jmkrebs30-d4p8y69_5
+    21300012: raccoon_mario_by_jmkrebs30-d4p8y69_6
+    21300014: raccoon_mario_by_jmkrebs30-d4p8y69_7
+    21300016: raccoon_mario_by_jmkrebs30-d4p8y69_8
+    21300018: raccoon_mario_by_jmkrebs30-d4p8y69_9
+    21300020: raccoon_mario_by_jmkrebs30-d4p8y69_10
+    21300022: raccoon_mario_by_jmkrebs30-d4p8y69_11
+    21300024: raccoon_mario_by_jmkrebs30-d4p8y69_12
+    21300026: raccoon_mario_by_jmkrebs30-d4p8y69_13
+    21300028: raccoon_mario_by_jmkrebs30-d4p8y69_14
+    21300030: raccoon_mario_by_jmkrebs30-d4p8y69_15
+    21300032: raccoon_mario_by_jmkrebs30-d4p8y69_16
+    21300034: raccoon_mario_by_jmkrebs30-d4p8y69_17
+    21300036: raccoon_mario_by_jmkrebs30-d4p8y69_18
+    21300038: raccoon_mario_by_jmkrebs30-d4p8y69_19
+    21300040: raccoon_mario_by_jmkrebs30-d4p8y69_20
+    21300042: raccoon_mario_by_jmkrebs30-d4p8y69_21
+    21300044: raccoon_mario_by_jmkrebs30-d4p8y69_22
+    21300046: raccoon_mario_by_jmkrebs30-d4p8y69_23
+    21300048: raccoon_mario_by_jmkrebs30-d4p8y69_24
+    21300050: raccoon_mario_by_jmkrebs30-d4p8y69_25
+    21300052: raccoon_mario_by_jmkrebs30-d4p8y69_26
+    21300054: raccoon_mario_by_jmkrebs30-d4p8y69_27
+    21300056: raccoon_mario_by_jmkrebs30-d4p8y69_28
+    21300058: raccoon_mario_by_jmkrebs30-d4p8y69_29
+    21300060: raccoon_mario_by_jmkrebs30-d4p8y69_30
+    21300062: raccoon_mario_by_jmkrebs30-d4p8y69_31
+    21300064: raccoon_mario_by_jmkrebs30-d4p8y69_32
+    21300066: raccoon_mario_by_jmkrebs30-d4p8y69_33
+    21300068: raccoon_mario_by_jmkrebs30-d4p8y69_34
+    21300070: raccoon_mario_by_jmkrebs30-d4p8y69_35
+    21300072: raccoon_mario_by_jmkrebs30-d4p8y69_36
+    21300074: raccoon_mario_by_jmkrebs30-d4p8y69_37
+    21300076: raccoon_mario_by_jmkrebs30-d4p8y69_38
+    21300078: raccoon_mario_by_jmkrebs30-d4p8y69_39
+    21300080: raccoon_mario_by_jmkrebs30-d4p8y69_40
+    21300082: raccoon_mario_by_jmkrebs30-d4p8y69_41
+    21300084: raccoon_mario_by_jmkrebs30-d4p8y69_42
+    21300086: raccoon_mario_by_jmkrebs30-d4p8y69_43
+    21300088: raccoon_mario_by_jmkrebs30-d4p8y69_44
+    21300090: raccoon_mario_by_jmkrebs30-d4p8y69_45
+    21300092: raccoon_mario_by_jmkrebs30-d4p8y69_46
+    21300094: raccoon_mario_by_jmkrebs30-d4p8y69_47
+    21300096: raccoon_mario_by_jmkrebs30-d4p8y69_48
+    21300098: raccoon_mario_by_jmkrebs30-d4p8y69_49
+    21300100: raccoon_mario_by_jmkrebs30-d4p8y69_50
+    21300102: raccoon_mario_by_jmkrebs30-d4p8y69_51
+    21300104: raccoon_mario_by_jmkrebs30-d4p8y69_52
+    21300106: raccoon_mario_by_jmkrebs30-d4p8y69_53
+    21300108: raccoon_mario_by_jmkrebs30-d4p8y69_54
+    21300110: raccoon_mario_by_jmkrebs30-d4p8y69_55
+    21300112: raccoon_mario_by_jmkrebs30-d4p8y69_56
+    21300114: raccoon_mario_by_jmkrebs30-d4p8y69_57
+    21300116: raccoon_mario_by_jmkrebs30-d4p8y69_58
+    21300118: raccoon_mario_by_jmkrebs30-d4p8y69_59
+    21300120: raccoon_mario_by_jmkrebs30-d4p8y69_60
+    21300122: raccoon_mario_by_jmkrebs30-d4p8y69_61
+    21300124: raccoon_mario_by_jmkrebs30-d4p8y69_62
+    21300126: raccoon_mario_by_jmkrebs30-d4p8y69_63
+    21300128: raccoon_mario_by_jmkrebs30-d4p8y69_64
+    21300130: raccoon_mario_by_jmkrebs30-d4p8y69_65
+    21300132: raccoon_mario_by_jmkrebs30-d4p8y69_66
+    21300134: raccoon_mario_by_jmkrebs30-d4p8y69_67
+    21300136: raccoon_mario_by_jmkrebs30-d4p8y69_68
+    21300138: raccoon_mario_by_jmkrebs30-d4p8y69_69
+    21300140: raccoon_mario_by_jmkrebs30-d4p8y69_70
+    21300142: raccoon_mario_by_jmkrebs30-d4p8y69_71
+    21300144: raccoon_mario_by_jmkrebs30-d4p8y69_72
+    21300146: raccoon_mario_by_jmkrebs30-d4p8y69_73
+    21300148: raccoon_mario_by_jmkrebs30-d4p8y69_74
+    21300150: raccoon_mario_by_jmkrebs30-d4p8y69_75
+    21300152: raccoon_mario_by_jmkrebs30-d4p8y69_76
+    21300154: raccoon_mario_by_jmkrebs30-d4p8y69_77
+    21300156: raccoon_mario_by_jmkrebs30-d4p8y69_78
+    21300158: raccoon_mario_by_jmkrebs30-d4p8y69_79
+    21300160: raccoon_mario_by_jmkrebs30-d4p8y69_80
+    21300162: raccoon_mario_by_jmkrebs30-d4p8y69_81
+    21300164: raccoon_mario_by_jmkrebs30-d4p8y69_82
+    21300166: raccoon_mario_by_jmkrebs30-d4p8y69_83
+    21300168: raccoon_mario_by_jmkrebs30-d4p8y69_84
+    21300170: raccoon_mario_by_jmkrebs30-d4p8y69_85
+    21300172: raccoon_mario_by_jmkrebs30-d4p8y69_86
+    21300174: raccoon_mario_by_jmkrebs30-d4p8y69_87
+    21300176: raccoon_mario_by_jmkrebs30-d4p8y69_88
+    21300178: raccoon_mario_by_jmkrebs30-d4p8y69_89
+    21300180: raccoon_mario_by_jmkrebs30-d4p8y69_90
+    21300182: raccoon_mario_by_jmkrebs30-d4p8y69_91
+    21300184: raccoon_mario_by_jmkrebs30-d4p8y69_92
+    21300186: raccoon_mario_by_jmkrebs30-d4p8y69_93
+    21300188: raccoon_mario_by_jmkrebs30-d4p8y69_94
+    21300190: raccoon_mario_by_jmkrebs30-d4p8y69_95
+    21300192: raccoon_mario_by_jmkrebs30-d4p8y69_96
+    21300194: raccoon_mario_by_jmkrebs30-d4p8y69_97
+    21300196: raccoon_mario_by_jmkrebs30-d4p8y69_98
+    21300198: raccoon_mario_by_jmkrebs30-d4p8y69_99
+    21300200: raccoon_mario_by_jmkrebs30-d4p8y69_100
+    21300202: raccoon_mario_by_jmkrebs30-d4p8y69_101
+    21300204: raccoon_mario_by_jmkrebs30-d4p8y69_102
+    21300206: raccoon_mario_by_jmkrebs30-d4p8y69_103
+    21300208: raccoon_mario_by_jmkrebs30-d4p8y69_104
+    21300210: raccoon_mario_by_jmkrebs30-d4p8y69_105
+    21300212: raccoon_mario_by_jmkrebs30-d4p8y69_106
+    21300214: raccoon_mario_by_jmkrebs30-d4p8y69_107
+    21300216: raccoon_mario_by_jmkrebs30-d4p8y69_108
+    21300218: raccoon_mario_by_jmkrebs30-d4p8y69_109
+    21300220: raccoon_mario_by_jmkrebs30-d4p8y69_110
+    21300222: raccoon_mario_by_jmkrebs30-d4p8y69_111
+    21300224: raccoon_mario_by_jmkrebs30-d4p8y69_112
+    21300226: raccoon_mario_by_jmkrebs30-d4p8y69_113
+    21300228: raccoon_mario_by_jmkrebs30-d4p8y69_114
+    21300230: raccoon_mario_by_jmkrebs30-d4p8y69_115
+    21300232: raccoon_mario_by_jmkrebs30-d4p8y69_116
+    21300234: raccoon_mario_by_jmkrebs30-d4p8y69_117
+    21300236: raccoon_mario_by_jmkrebs30-d4p8y69_118
+    21300238: raccoon_mario_by_jmkrebs30-d4p8y69_119
+    21300240: raccoon_mario_by_jmkrebs30-d4p8y69_120
+    21300242: raccoon_mario_by_jmkrebs30-d4p8y69_121
+    21300244: raccoon_mario_by_jmkrebs30-d4p8y69_122
+    21300246: raccoon_mario_by_jmkrebs30-d4p8y69_123
+    21300248: raccoon_mario_by_jmkrebs30-d4p8y69_124
+    21300250: raccoon_mario_by_jmkrebs30-d4p8y69_125
+    21300252: raccoon_mario_by_jmkrebs30-d4p8y69_126
+    21300254: raccoon_mario_by_jmkrebs30-d4p8y69_127
+    21300256: raccoon_mario_by_jmkrebs30-d4p8y69_128
+    21300258: raccoon_mario_by_jmkrebs30-d4p8y69_129
+    21300260: raccoon_mario_by_jmkrebs30-d4p8y69_130
+    21300262: raccoon_mario_by_jmkrebs30-d4p8y69_131
+    21300264: raccoon_mario_by_jmkrebs30-d4p8y69_132
+    21300266: raccoon_mario_by_jmkrebs30-d4p8y69_133
+    21300268: raccoon_mario_by_jmkrebs30-d4p8y69_134
+    21300270: raccoon_mario_by_jmkrebs30-d4p8y69_135
+    21300272: raccoon_mario_by_jmkrebs30-d4p8y69_136
+    21300274: raccoon_mario_by_jmkrebs30-d4p8y69_137
+    21300276: raccoon_mario_by_jmkrebs30-d4p8y69_138
+    21300278: raccoon_mario_by_jmkrebs30-d4p8y69_139
+    21300280: raccoon_mario_by_jmkrebs30-d4p8y69_140
+    21300282: raccoon_mario_by_jmkrebs30-d4p8y69_141
+    21300284: raccoon_mario_by_jmkrebs30-d4p8y69_142
+    21300286: raccoon_mario_by_jmkrebs30-d4p8y69_143
+    21300288: raccoon_mario_by_jmkrebs30-d4p8y69_144
+    21300290: raccoon_mario_by_jmkrebs30-d4p8y69_145
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 702
+        width: 112
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd8a4bdd3d5d914f95c585420918db5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 658
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a687aa27f629bf14d89bb6001b44fcac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 658
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8e4f002a018c74da60bd328270fef6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_3
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 658
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314b7cd54d4bdec4fadba788d482bcdd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_4
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 658
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61bf8e429d8cde40b6c0b5cfb4b37a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_5
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 675
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f6917737ccb7e48b6a5c4e12a6ca7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_6
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 675
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fd13c72abb325488b26f04b2120f15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_7
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 679
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428d5975bd5869345a89b438e4af2464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_8
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 676
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6424f9ac85b16434eb08cc362f31a908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_9
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 663
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503b6dca3b587374c8e5c0128ffa2a2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_10
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 663
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf6bd4b554575b4aba853dc412c45c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_11
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 663
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38513fca30c1b5046b06adacf4f0e872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_12
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 664
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c2348d586bb69419fc1f855acbff79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_13
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 664
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ed5183161e6f642b676290c9d5f4b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_14
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 606
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef871a93812db84991e18269aeaee1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_15
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 601
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4068efe2a0a2e8741bb86a1748f3bee0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_16
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 610
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a674e7d9b3e62cc49a288f1487d33f68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_17
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 608
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9909e97cdfce2d4fbdbcd2b85be3285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_18
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 608
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237a2b8e75139e2449a79bd84996edc7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_19
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 607
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8b957ee99d41e42a8d99699b12e620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 561
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f0f60ee1fae094a9d3d42ef54d8ed1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_21
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 561
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d29917a2458477429ed3cac5fe3204f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_22
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 561
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a1236c99f6c924c9471c5cc23346a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_23
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 561
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40512d877af4ece4eb8ae1d7c3053a0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_24
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 561
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81832abc5f282d4f88bd3c1a6acc4ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_25
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 561
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836a7a6b73a33854280dfd4df8d593d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_26
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 514
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d398ac526b0284daf3686a6edc1ee6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_27
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 513
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60033790ad809f2419596ebdfbc62dda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_28
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 513
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05be63c50258b54c95122c806c6b3b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_29
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 513
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b581aaace1dca064ba33cf73a4eceae9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 467
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72baf6df7502ea24f849960244e83113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_31
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 467
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49791ea58b6dcc43997cfb38166e7a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_32
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 467
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb03cd592be1bc847a27294a7d4c2553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 467
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e42f7dd91291947be6b6cdf5473b23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 467
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3300e8fd5c3f2d84892f4346f03a1aab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_35
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 467
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0dfeb4b3705f24d88f4a81b9bccabf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_36
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 467
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5e8f65f610770449033bcdc714230a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_37
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 467
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9b7302f776d8f4580ee200c51168a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_38
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 467
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcadcf5b7c0ca14fbcdb77b0e156d6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_39
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 467
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea41704b23a2af74095edc0d8258d7af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_40
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 467
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3228ccd7989ac634189faadae66fcd29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_41
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 467
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8110e0750c354614984ad11e5985c7d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_42
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 467
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b62f2c84efd6d5449221f79ad7c251d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_43
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 427
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a862a3f000e7548a94cdfe58b52ff8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_44
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 427
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396b333dc1e6ab24fb8bd0b9c291cc29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_45
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 427
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b69e4576d51b6c428b40daf6cdb6afd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_46
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 427
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e53f90f6b51cd4298f8c8bd0badf44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_47
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 427
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade94897f50b44d4e9bdb7a46d57fe81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_48
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 427
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbb4bf2b955e854aacf8e6e61eccb11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_49
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 427
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7235fd53dc2336c4e9cd146befe8c171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_50
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 427
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cae16b8f88526243bd94c1b72a69b0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_51
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 426
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea5019f71a5ecc459e105f4657e1f68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_52
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 426
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290a5fcfbd40fc243a635180afc76a9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_53
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 386
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acba08afa5505da4f992a93e016718ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_54
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 386
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831608773f0c0b344bff795f02081a8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_55
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 386
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74db5d8c935c1843bcc7e83b94330f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_56
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 386
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a80cf739d9a414aa2fbbe99e5918c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_57
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 386
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24ba67c614c5cd40bb2987071dcf117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_58
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 386
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37173d2b69cddd4786b3821c6fe9f90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_59
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 346
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f48ba6b349ca1a4786b297f2ac550a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_60
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 346
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5e02cf4da818f4ab209d3ff2b33907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_61
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 346
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d626c041567ada74a88fb6426b8876bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_62
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 346
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6be10d32f423e4aaf95ba0f651363e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_63
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 347
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bb947082255e341af3da527f1e362a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_64
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 347
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ba83bdb48f2c1418dd3e2ab30a4318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_65
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 346
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02282c2e105b9b743a44ba7b427dffcb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_66
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 347
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700ea8e6673336743b9512cdf092cf32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_67
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 343
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b58710bf8d2bd49ba0b4ca703bf14e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_68
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 343
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253b013cd18059a4e890e951cd458ad9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_69
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 349
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1b3b67bbef9be4eadc5d0678105a1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_70
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 343
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3eb67d2b959e145a2cf3f46f650206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_71
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 308
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8506033da7e42b54993eaa50cd5de977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_72
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 308
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8cd1c04b9076a64f81e3d879532cbdb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_73
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 308
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f06bd2b5fd09d4ca1503fc4efaacb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_74
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 308
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40fb83b765e1fc4a9334811cbab801d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_75
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 308
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096f9f9933682114fa6bec84e17820a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_76
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 265
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd7e8cad496bc24baed04aa06bd759b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_77
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 265
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bddbb549a207744a87e70c51607dd87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_78
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 265
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f814e7a28683947ac6ff557c596fb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_79
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 265
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa090756451faf34693d972b0e6e04a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_80
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 265
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ba213209957f546956a28ff3a9e613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_81
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 265
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6373b95331de541a878af1ec2af153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_82
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 265
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a036a337fe7830c4abaf626deb25d162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_83
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 265
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac362e47c3fb0e428c3769afd194062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_84
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 265
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a962ea0044bd15c42bfd69cbfdcbbc10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_85
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 225
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84fd4233cd53c148a9251c0ef560158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_86
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 225
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010ac1b921586bd4995325b9267a2900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_87
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 225
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4091216ab79e8c542bd73435feef0d70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_88
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 225
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d5644511db33f4ba4f4252995f8e1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_89
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 225
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6a014b0a95f0742879e0c07ffe09a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_90
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 225
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a99b9cebbb88e47885ffd257669191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_91
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 225
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c642868c7b6aa874893c6de3a213815a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_92
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 225
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6005e7770d6a51b4daaf66b746de74ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_93
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 225
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9952a23016c0c1b4eaf096240222fc47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_94
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 225
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828cc0fe352ed4a4eb103a2c3b312be2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_95
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 187
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17ad0e3c256c164fb5b8e649e136c19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_96
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 187
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ad938ebd1b4fe4caf6314700eba927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_97
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 187
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b61807ffd1ed60459d0ca0577f168e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_98
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 186
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15ebb1dd95dba649a536c5c5ecabe2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_99
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 185
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195e89cec090acc40b8014da15c1b5f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_100
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 185
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f06726526ec8ed4cb800e39e894a0fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_101
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 185
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99308b2791bbe748b1fb41d665346ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_102
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 185
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4db8dd29a5ffcb4e98bc54d0cdf84da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_103
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 185
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1728de8bee04b1b419098b281958c5c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_104
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 185
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d525d1656e5219846b9e23cd07a4ee62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_105
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 185
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65922e5c423648c49ab9d152abd0aba6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_106
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 198
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7b23c4fd97e5647bf4ff3b3ba3e74e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_107
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 185
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45b1b285cb795a4f97026f15464cb69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_108
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 198
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa5d625c86853b48b197cafa9b06364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_109
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 185
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d48eed60acc4024c93ca16e1f49adbc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_110
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 144
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43aa2e33bdb40e448f97b3d7bf5af1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_111
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 144
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1da82075aec06d49958dade61ba9183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_112
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 144
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1911811aaaf76a3489c6f96181b10507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_113
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 144
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c232a125ddb3ea84d80de0c29ad9def4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_114
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 145
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8433f6b841062df4fb25e55a4c9f8dd2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_115
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 146
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2524912e03bc00c40bccf9b8693e1910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_116
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 145
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ea23c92a5399740897cc67e2393f4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_117
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 146
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97af3077b0ba84f459ce85b31628aab4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_118
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 110
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3a9b233fdeeb24e8a38975026a1ef8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_119
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 112
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67aee702442e615408682203fa33113a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_120
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 107
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14051c0df39520c4db8ab8d64538de06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_121
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 105
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452d3e3e20e5dc44faa28ebb39083557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_122
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 109
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83eb3a5d8fbf7614bbaa171c606c3059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_123
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 93
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171a82564e3dd18439f3379ebae7a7be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_124
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 103
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4971d5261f5ff444946937af02a6825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_125
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 103
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55eaeab32430924e91acb04361a27a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_126
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 58
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec56693a9f15014c9089791e6b5ab05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_127
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 58
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4c2d87d8f1f8d46b2cb59aa9d60f18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_128
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 55
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb7a066cf3c3434cb74fed7088cade8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_129
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 71
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0886a80c0369a41a3391e591ff4722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_130
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 56
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b714bb5a2feedd4ca3a046d9d15c181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_131
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 56
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2cb5e529da8c1439daf75902361f89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_132
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 18
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ac000d8457c0040b61a2019ae1c1e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_133
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 17
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ab40c9ed8a7d54a86e7ee0b8f8b9a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_134
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 17
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984b4c00839a2294a98eba0ddd1d88e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_135
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 33
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e64f521ed1a8042ad61757d5128ea0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_136
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 35
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14153a5c270227f4cb301df0b446a820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_137
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 35
+        width: 61
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9249ef0a6e8db2b4196185858088828e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_138
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 21
+        width: 45
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8f11c38cde51549a0416700927a52b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_139
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 19
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbeddb6e9012134bb8ed367d8248950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_140
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 19
+        width: 60
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26f3ae0edcf7ad4088a2b3e2b3bd611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_141
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 7
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8feedcb259d583645b4c3f23f33601f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_142
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 7
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679e05519b82c054aa121ae14171b7b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_143
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 7
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03b58e8acb936140a135a2608529f7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_144
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 7
+        width: 35
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064a444e369ce0849b1c2327df100689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raccoon_mario_by_jmkrebs30-d4p8y69_145
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 7
+        width: 42
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a43fd9b366a9b4fb85d8061fdcd467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4792200ff87dc164a84a7f3a1569d0a0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
