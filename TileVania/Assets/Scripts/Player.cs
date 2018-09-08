@@ -5,8 +5,11 @@ using UnityStandardAssets.CrossPlatformInput;
 
 public class Player : MonoBehaviour {
 
-    [SerializeField]
-    private float runSpeed = 1f;
+    [SerializeField] float runSpeed = 1f;
+    [SerializeField] float jumpVerticalPower = 5f;
+    [SerializeField] float jumpHorizontalPower = 2f;
+
+    bool jumping = false;
 
     Rigidbody2D myRigidbody;
     Animator myAnimator;
@@ -19,7 +22,18 @@ public class Player : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        Run();
+        if (!jumping) {
+            Run();
+        }
+        Jump();
+    }
+
+    private void Jump() {
+        if (CrossPlatformInputManager.GetButtonDown("Jump") && !jumping) {
+            jumping = true;
+            Vector2 jumpVelocity = new Vector2(jumpHorizontalPower * Mathf.Sign(myRigidbody.velocity.x), jumpVerticalPower);
+            myRigidbody.velocity = jumpVelocity;
+        }
     }
 
     private void Run() {
@@ -36,5 +50,9 @@ public class Player : MonoBehaviour {
         if (playerHasHorizontalSpeed) {
             gameObject.transform.localScale = new Vector2(Mathf.Sign(myRigidbody.velocity.x), 1f);
         }
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision) {
+        jumping = false;
     }
 }
