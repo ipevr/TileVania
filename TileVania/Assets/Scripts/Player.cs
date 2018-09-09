@@ -12,12 +12,18 @@ public class Player : MonoBehaviour {
     bool jumping = false;
 
     Rigidbody2D myRigidbody;
+    Collider2D myCollider;
     Animator myAnimator;
+    string[] jumpLayerNames = new string[1];
+    int jumpLayerMask;
 
-	// Use this for initialization
-	void Start () {
+    // Use this for initialization
+    void Start () {
+        jumpLayerNames[0] = "Ground";
         myRigidbody = GetComponent<Rigidbody2D>();
+        myCollider = GetComponent<Collider2D>();
         myAnimator = GetComponent<Animator>();
+        jumpLayerMask = LayerMask.GetMask(jumpLayerNames);
 	}
 	
 	// Update is called once per frame
@@ -29,10 +35,17 @@ public class Player : MonoBehaviour {
     }
 
     private void Jump() {
-        if (CrossPlatformInputManager.GetButtonDown("Jump") && !jumping) {
+        if (!myCollider.IsTouchingLayers(jumpLayerMask)) {
             jumping = true;
+            return;
+        }
+        if (CrossPlatformInputManager.GetButtonDown("Jump") && !jumping) {
             Vector2 jumpVelocity = new Vector2(jumpHorizontalPower * Mathf.Sign(myRigidbody.velocity.x), jumpVerticalPower);
             myRigidbody.velocity = jumpVelocity;
+            return;
+        }
+        if (myCollider.IsTouchingLayers(jumpLayerMask)) {
+            jumping = false;
         }
     }
 
@@ -52,7 +65,4 @@ public class Player : MonoBehaviour {
         }
     }
 
-    private void OnCollisionEnter2D(Collision2D collision) {
-        jumping = false;
-    }
 }
