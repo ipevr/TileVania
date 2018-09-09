@@ -9,9 +9,6 @@ public class Player : MonoBehaviour {
     [SerializeField] float climbSpeedHorizontal = 1f;
     [SerializeField] float climbSpeedVertical = 1f;
     [SerializeField] float jumpVerticalPower = 7f;
-    [SerializeField] float jumpHorizontalPower = 1.3f;
-
-    bool jumping = false;
 
     Rigidbody2D myRigidbody;
     Collider2D myCollider;
@@ -28,30 +25,19 @@ public class Player : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        if (!jumping) {
-            Run();
-        }
+        Run();
         Jump();
         ClimbLadder();
     }
 
     private void Jump() {
         if (!myCollider.IsTouchingLayers(LayerMask.GetMask("Ground", "Climbing"))) {
-            Debug.Log("Jump on");
-            jumping = true;
             return;
         }
-        if (CrossPlatformInputManager.GetButtonDown("Jump") && !jumping) {
-            Debug.Log("Jump");
-            gameObject.transform.position += new Vector3(0f, 0.01f, 0f); // give player a small vertical shift to prevent switching jumping to false in the next frame because player is still touching ground layer
-            Vector2 jumpVelocity = new Vector2(jumpHorizontalPower * Mathf.Sign(myRigidbody.velocity.x), jumpVerticalPower);
-            myRigidbody.velocity = jumpVelocity;
-            jumping = true;
+        if (CrossPlatformInputManager.GetButtonDown("Jump")) {
+            Vector2 jumpAddVelocity = new Vector2(0f, jumpVerticalPower);
+            myRigidbody.velocity += jumpAddVelocity;
             return;
-        }
-        if (myCollider.IsTouchingLayers(LayerMask.GetMask("Ground", "Climbing"))) {
-            Debug.Log("Jump off");
-            jumping = false;
         }
     }
 
