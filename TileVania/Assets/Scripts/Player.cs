@@ -11,14 +11,16 @@ public class Player : MonoBehaviour {
     [SerializeField] float jumpVerticalPower = 7f;
 
     Rigidbody2D myRigidbody;
-    Collider2D myCollider;
+    CapsuleCollider2D myBodyCollider;
+    BoxCollider2D myFeetCollider;
     Animator myAnimator;
     float gravityScaleAtStart = 0f;
 
     // Use this for initialization
     void Start () {
         myRigidbody = GetComponent<Rigidbody2D>();
-        myCollider = GetComponent<Collider2D>();
+        myBodyCollider = GetComponent<CapsuleCollider2D>();
+        myFeetCollider = GetComponent<BoxCollider2D>();
         myAnimator = GetComponent<Animator>();
         gravityScaleAtStart = myRigidbody.gravityScale;
 	}
@@ -31,7 +33,7 @@ public class Player : MonoBehaviour {
     }
 
     private void Jump() {
-        if (!myCollider.IsTouchingLayers(LayerMask.GetMask("Ground", "Climbing"))) {
+        if (!myFeetCollider.IsTouchingLayers(LayerMask.GetMask("Ground", "Climbing"))) {
             return;
         }
         if (CrossPlatformInputManager.GetButtonDown("Jump")) {
@@ -42,7 +44,7 @@ public class Player : MonoBehaviour {
     }
 
     private void ClimbLadder() {
-        if (!myCollider.IsTouchingLayers(LayerMask.GetMask("Climbing"))) {
+        if (!myFeetCollider.IsTouchingLayers(LayerMask.GetMask("Climbing"))) {
             myAnimator.SetBool("Climbing", false);
             myRigidbody.gravityScale = gravityScaleAtStart;
             return;
