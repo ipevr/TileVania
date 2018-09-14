@@ -134,12 +134,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b48b295627d096344bc176f2d362eecc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colliderBody: {fileID: 70450076160236152}
-  colliderFeet: {fileID: 61093952266056588}
   runSpeed: 3
   climbSpeedHorizontal: 3
   climbSpeedVertical: 3
   jumpVerticalPower: 7
+  deadVerticalPower: 10
 --- !u!212 &212840505900712530
 SpriteRenderer:
   m_ObjectHideFlags: 1
@@ -173,7 +172,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -486654859
-  m_SortingLayer: 3
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300002, guid: 5df1a540e4485a54699ebf163f935a56, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}

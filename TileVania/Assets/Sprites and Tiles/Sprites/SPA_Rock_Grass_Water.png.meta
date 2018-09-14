@@ -75,7 +75,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 30
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -117,19 +117,19 @@ TextureImporter:
       name: SPA_Rock_Grass_Water_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 190
-        width: 32
-        height: 32
+        x: 1
+        y: 191
+        width: 30
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape:
-      - - {x: -16, y: 16}
-        - {x: -16, y: -16}
-        - {x: 16, y: -16}
-        - {x: 16, y: 16}
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
       tessellationDetail: 0
       bones: []
       spriteID: e09449ce309f9bd45acd3d394884e597
@@ -141,19 +141,19 @@ TextureImporter:
       name: SPA_Rock_Grass_Water_1
       rect:
         serializedVersion: 2
-        x: 38
-        y: 190
-        width: 32
-        height: 32
+        x: 39
+        y: 191
+        width: 30
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape:
-      - - {x: -16, y: 16}
-        - {x: -16, y: -16}
-        - {x: 16, y: -16}
-        - {x: 16, y: 16}
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
       tessellationDetail: 0
       bones: []
       spriteID: 9d1c3966e5aeda54390af45df3d449c7
@@ -165,19 +165,19 @@ TextureImporter:
       name: SPA_Rock_Grass_Water_2
       rect:
         serializedVersion: 2
-        x: 76
-        y: 190
-        width: 32
-        height: 32
+        x: 77
+        y: 191
+        width: 30
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape:
-      - - {x: -16, y: 16}
-        - {x: -16, y: -16}
-        - {x: 16, y: -16}
-        - {x: 16, y: 16}
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
       tessellationDetail: 0
       bones: []
       spriteID: c93a01093fca31c4fad74cb5f790449b
@@ -189,19 +189,19 @@ TextureImporter:
       name: SPA_Rock_Grass_Water_3
       rect:
         serializedVersion: 2
-        x: 114
-        y: 190
-        width: 32
-        height: 32
+        x: 115
+        y: 191
+        width: 30
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape:
-      - - {x: -16, y: 16}
-        - {x: -16, y: -16}
-        - {x: 16, y: -16}
-        - {x: 16, y: 16}
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
       tessellationDetail: 0
       bones: []
       spriteID: 4ff898df7fc4d7045be141a1a7fd8caa
@@ -213,19 +213,19 @@ TextureImporter:
       name: SPA_Rock_Grass_Water_4
       rect:
         serializedVersion: 2
-        x: 152
-        y: 190
-        width: 32
-        height: 32
+        x: 153
+        y: 191
+        width: 30
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape:
-      - - {x: -16, y: 16}
-        - {x: -16, y: -16}
-        - {x: 16, y: -16}
-        - {x: 16, y: 16}
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
       tessellationDetail: 0
       bones: []
       spriteID: 10e7b862fcdd69942b26dd825b61e290
@@ -237,19 +237,19 @@ TextureImporter:
       name: SPA_Rock_Grass_Water_5
       rect:
         serializedVersion: 2
-        x: 0
-        y: 152
-        width: 32
-        height: 32
+        x: 1
+        y: 153
+        width: 30
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape:
-      - - {x: -16, y: 16}
-        - {x: -16, y: -16}
-        - {x: 16, y: -16}
-        - {x: 16, y: 16}
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
       tessellationDetail: 0
       bones: []
       spriteID: 02e7fdf9b5388bb40aa5a750b5ca0a23
@@ -261,19 +261,19 @@ TextureImporter:
       name: SPA_Rock_Grass_Water_6
       rect:
         serializedVersion: 2
-        x: 38
-        y: 152
-        width: 32
-        height: 32
+        x: 39
+        y: 153
+        width: 30
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape:
-      - - {x: -16, y: 16}
-        - {x: -16, y: -16}
-        - {x: 16, y: -16}
-        - {x: 16, y: 16}
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
       tessellationDetail: 0
       bones: []
       spriteID: ddf6f58f562fb0d43a16160ce65dd241
@@ -285,19 +285,19 @@ TextureImporter:
       name: SPA_Rock_Grass_Water_7
       rect:
         serializedVersion: 2
-        x: 76
-        y: 152
-        width: 32
-        height: 32
+        x: 77
+        y: 153
+        width: 30
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape:
-      - - {x: -16, y: 16}
-        - {x: -16, y: -16}
-        - {x: 16, y: -16}
-        - {x: 16, y: 16}
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
       tessellationDetail: 0
       bones: []
       spriteID: 38038233b758f174796c0c66c1198c26
@@ -309,19 +309,19 @@ TextureImporter:
       name: SPA_Rock_Grass_Water_8
       rect:
         serializedVersion: 2
-        x: 114
-        y: 152
-        width: 32
-        height: 32
+        x: 115
+        y: 153
+        width: 30
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape:
-      - - {x: -16, y: 16}
-        - {x: -16, y: -16}
-        - {x: 16, y: -16}
-        - {x: 16, y: 16}
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
       tessellationDetail: 0
       bones: []
       spriteID: eb055dd82c9c76b4fad50cc61385e2fb
@@ -333,19 +333,19 @@ TextureImporter:
       name: SPA_Rock_Grass_Water_9
       rect:
         serializedVersion: 2
-        x: 152
-        y: 152
-        width: 32
-        height: 32
+        x: 153
+        y: 153
+        width: 30
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape:
-      - - {x: -16, y: 16}
-        - {x: -16, y: -16}
-        - {x: 16, y: -16}
-        - {x: 16, y: 16}
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
       tessellationDetail: 0
       bones: []
       spriteID: feea45101dd825648974193ea0cc5543
@@ -357,19 +357,19 @@ TextureImporter:
       name: SPA_Rock_Grass_Water_10
       rect:
         serializedVersion: 2
-        x: 0
-        y: 114
-        width: 32
-        height: 32
+        x: 1
+        y: 115
+        width: 30
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape:
-      - - {x: -16, y: 16}
-        - {x: -16, y: -16}
-        - {x: 16, y: -16}
-        - {x: 16, y: 16}
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
       tessellationDetail: 0
       bones: []
       spriteID: 732f542ab14f35348bd59b10f1aaa4b9
@@ -381,19 +381,19 @@ TextureImporter:
       name: SPA_Rock_Grass_Water_11
       rect:
         serializedVersion: 2
-        x: 38
-        y: 114
-        width: 32
-        height: 32
+        x: 39
+        y: 115
+        width: 30
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape:
-      - - {x: -16, y: 16}
-        - {x: -16, y: -16}
-        - {x: 16, y: -16}
-        - {x: 16, y: 16}
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
       tessellationDetail: 0
       bones: []
       spriteID: eaa81cb0c7401e746bb3a96e2b70ad7f
@@ -405,19 +405,19 @@ TextureImporter:
       name: SPA_Rock_Grass_Water_12
       rect:
         serializedVersion: 2
-        x: 76
-        y: 114
-        width: 32
-        height: 32
+        x: 77
+        y: 115
+        width: 30
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape:
-      - - {x: -16, y: 16}
-        - {x: -16, y: -16}
-        - {x: 16, y: -16}
-        - {x: 16, y: 16}
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
       tessellationDetail: 0
       bones: []
       spriteID: 432c8139ba384944389d6a669cd0f524
@@ -429,19 +429,19 @@ TextureImporter:
       name: SPA_Rock_Grass_Water_13
       rect:
         serializedVersion: 2
-        x: 114
-        y: 114
-        width: 32
-        height: 32
+        x: 115
+        y: 115
+        width: 30
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape:
-      - - {x: -16, y: 16}
-        - {x: -16, y: -16}
-        - {x: 16, y: -16}
-        - {x: 16, y: 16}
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
       tessellationDetail: 0
       bones: []
       spriteID: 95c935c1f2640874dad803910f85155d
@@ -453,19 +453,19 @@ TextureImporter:
       name: SPA_Rock_Grass_Water_14
       rect:
         serializedVersion: 2
-        x: 152
-        y: 114
-        width: 32
-        height: 32
+        x: 153
+        y: 115
+        width: 30
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape:
-      - - {x: -16, y: 16}
-        - {x: -16, y: -16}
-        - {x: 16, y: -16}
-        - {x: 16, y: 16}
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
       tessellationDetail: 0
       bones: []
       spriteID: 5f7a39e0acc50a54b924da5f08723e79
@@ -477,19 +477,19 @@ TextureImporter:
       name: SPA_Rock_Grass_Water_15
       rect:
         serializedVersion: 2
-        x: 0
-        y: 76
-        width: 32
-        height: 32
+        x: 1
+        y: 77
+        width: 30
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape:
-      - - {x: -16, y: 16}
-        - {x: -16, y: -16}
-        - {x: 16, y: -16}
-        - {x: 16, y: 16}
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
       tessellationDetail: 0
       bones: []
       spriteID: 7f41348a7e877724f99deff94593c5f3
@@ -501,19 +501,19 @@ TextureImporter:
       name: SPA_Rock_Grass_Water_16
       rect:
         serializedVersion: 2
-        x: 38
-        y: 76
-        width: 32
-        height: 32
+        x: 39
+        y: 77
+        width: 30
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape:
-      - - {x: -16, y: 16}
-        - {x: -16, y: -16}
-        - {x: 16, y: -16}
-        - {x: 16, y: 16}
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
       tessellationDetail: 0
       bones: []
       spriteID: 14a1911727e696d4f9b7495e463e794a
@@ -525,19 +525,19 @@ TextureImporter:
       name: SPA_Rock_Grass_Water_17
       rect:
         serializedVersion: 2
-        x: 76
-        y: 76
-        width: 32
-        height: 32
+        x: 77
+        y: 77
+        width: 30
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape:
-      - - {x: -16, y: 16}
-        - {x: -16, y: -16}
-        - {x: 16, y: -16}
-        - {x: 16, y: 16}
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
       tessellationDetail: 0
       bones: []
       spriteID: 29e0f637c58194a46b3ff4ebf46a5de4
@@ -549,19 +549,19 @@ TextureImporter:
       name: SPA_Rock_Grass_Water_18
       rect:
         serializedVersion: 2
-        x: 114
-        y: 76
-        width: 32
-        height: 32
+        x: 115
+        y: 77
+        width: 30
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape:
-      - - {x: -16, y: 16}
-        - {x: -16, y: -16}
-        - {x: 16, y: -16}
-        - {x: 16, y: 16}
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
       tessellationDetail: 0
       bones: []
       spriteID: 903f77014a6f2a646a1db423ff99122f
@@ -573,19 +573,19 @@ TextureImporter:
       name: SPA_Rock_Grass_Water_19
       rect:
         serializedVersion: 2
-        x: 152
-        y: 76
-        width: 32
-        height: 32
+        x: 153
+        y: 77
+        width: 30
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape:
-      - - {x: -16, y: 16}
-        - {x: -16, y: -16}
-        - {x: 16, y: -16}
-        - {x: 16, y: 16}
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
       tessellationDetail: 0
       bones: []
       spriteID: 8b8cf7c4fe959724d839d14d6969292d
@@ -597,19 +597,19 @@ TextureImporter:
       name: SPA_Rock_Grass_Water_20
       rect:
         serializedVersion: 2
-        x: 0
-        y: 38
-        width: 32
-        height: 32
+        x: 1
+        y: 39
+        width: 30
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape:
-      - - {x: -16, y: 16}
-        - {x: -16, y: -16}
-        - {x: 16, y: -16}
-        - {x: 16, y: 16}
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
       tessellationDetail: 0
       bones: []
       spriteID: 29afb81fb263d764cbb4451974f7b854
@@ -621,19 +621,19 @@ TextureImporter:
       name: SPA_Rock_Grass_Water_21
       rect:
         serializedVersion: 2
-        x: 38
-        y: 38
-        width: 32
-        height: 32
+        x: 39
+        y: 39
+        width: 30
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape:
-      - - {x: -16, y: 16}
-        - {x: -16, y: -16}
-        - {x: 16, y: -16}
-        - {x: 16, y: 16}
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
       tessellationDetail: 0
       bones: []
       spriteID: 600424459d520d54ebbc3edfdf7bff32
@@ -645,19 +645,19 @@ TextureImporter:
       name: SPA_Rock_Grass_Water_22
       rect:
         serializedVersion: 2
-        x: 76
-        y: 38
-        width: 32
-        height: 32
+        x: 77
+        y: 39
+        width: 30
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape:
-      - - {x: -16, y: 16}
-        - {x: -16, y: -16}
-        - {x: 16, y: -16}
-        - {x: 16, y: 16}
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
       tessellationDetail: 0
       bones: []
       spriteID: 87df24e8952e4504d85110b55bb5e78e
@@ -669,19 +669,19 @@ TextureImporter:
       name: SPA_Rock_Grass_Water_23
       rect:
         serializedVersion: 2
-        x: 114
-        y: 38
-        width: 32
-        height: 32
+        x: 115
+        y: 39
+        width: 30
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape:
-      - - {x: -16, y: 16}
-        - {x: -16, y: -16}
-        - {x: 16, y: -16}
-        - {x: 16, y: 16}
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
       tessellationDetail: 0
       bones: []
       spriteID: 4fe48f8bdfd410e428e8cb79e2afbc6c
@@ -693,19 +693,19 @@ TextureImporter:
       name: SPA_Rock_Grass_Water_24
       rect:
         serializedVersion: 2
-        x: 152
-        y: 38
-        width: 32
-        height: 32
+        x: 153
+        y: 39
+        width: 30
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape:
-      - - {x: -16, y: 16}
-        - {x: -16, y: -16}
-        - {x: 16, y: -16}
-        - {x: 16, y: 16}
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
       tessellationDetail: 0
       bones: []
       spriteID: 73aec50600ecea249bad3b30d2f69098
@@ -717,19 +717,19 @@ TextureImporter:
       name: SPA_Rock_Grass_Water_25
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 32
-        height: 32
+        x: 1
+        y: 1
+        width: 30
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape:
-      - - {x: -16, y: 16}
-        - {x: -16, y: -16}
-        - {x: 16, y: -16}
-        - {x: 16, y: 16}
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
       tessellationDetail: 0
       bones: []
       spriteID: b60f37a59f3e4e3419204fc50d0b103a
@@ -741,19 +741,19 @@ TextureImporter:
       name: SPA_Rock_Grass_Water_26
       rect:
         serializedVersion: 2
-        x: 38
-        y: 0
-        width: 32
-        height: 32
+        x: 39
+        y: 1
+        width: 30
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape:
-      - - {x: -16, y: 16}
-        - {x: -16, y: -16}
-        - {x: 16, y: -16}
-        - {x: 16, y: 16}
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
       tessellationDetail: 0
       bones: []
       spriteID: 13b214b51569d414ea9f2c50a917fe33
@@ -765,19 +765,19 @@ TextureImporter:
       name: SPA_Rock_Grass_Water_27
       rect:
         serializedVersion: 2
-        x: 76
-        y: 0
-        width: 32
-        height: 32
+        x: 77
+        y: 1
+        width: 30
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape:
-      - - {x: -16, y: 16}
-        - {x: -16, y: -16}
-        - {x: 16, y: -16}
-        - {x: 16, y: 16}
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
       tessellationDetail: 0
       bones: []
       spriteID: 79dd98f57e1207e44bf562db717752ff
@@ -789,19 +789,19 @@ TextureImporter:
       name: SPA_Rock_Grass_Water_28
       rect:
         serializedVersion: 2
-        x: 114
-        y: 0
-        width: 32
-        height: 32
+        x: 115
+        y: 1
+        width: 30
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape:
-      - - {x: -16, y: 16}
-        - {x: -16, y: -16}
-        - {x: 16, y: -16}
-        - {x: 16, y: 16}
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
       tessellationDetail: 0
       bones: []
       spriteID: 9380047f9a7c08046a5212abbecf9f6e
@@ -813,19 +813,19 @@ TextureImporter:
       name: SPA_Rock_Grass_Water_29
       rect:
         serializedVersion: 2
-        x: 152
-        y: 0
-        width: 32
-        height: 32
+        x: 153
+        y: 1
+        width: 30
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape:
-      - - {x: -16, y: 16}
-        - {x: -16, y: -16}
-        - {x: 16, y: -16}
-        - {x: 16, y: 16}
+      - - {x: -15, y: 15}
+        - {x: -15, y: -15}
+        - {x: 15, y: -15}
+        - {x: 15, y: 15}
       tessellationDetail: 0
       bones: []
       spriteID: e0e1a2e2b6f92444da77ae6d7dd3d373

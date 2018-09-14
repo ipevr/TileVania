@@ -5,16 +5,20 @@ using UnityStandardAssets.CrossPlatformInput;
 
 public class Player : MonoBehaviour {
 
+    const int layerEnemy = 12;
+
     [SerializeField] float runSpeed = 3f;
     [SerializeField] float climbSpeedHorizontal = 1f;
     [SerializeField] float climbSpeedVertical = 1f;
     [SerializeField] float jumpVerticalPower = 7f;
+    [SerializeField] float deadVerticalPower = 10f;
 
     Rigidbody2D myRigidbody;
     CapsuleCollider2D myBodyCollider;
     BoxCollider2D myFeetCollider;
     Animator myAnimator;
     float gravityScaleAtStart = 0f;
+    bool isDead = false;
 
     // Use this for initialization
     void Start () {
@@ -27,9 +31,11 @@ public class Player : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+        if (isDead) { return; }
         Run();
         Jump();
         ClimbLadder();
+        Die();
     }
 
     private void Jump() {
@@ -71,6 +77,16 @@ public class Player : MonoBehaviour {
         bool playerHasHorizontalSpeed = Mathf.Abs(myRigidbody.velocity.x) > Mathf.Epsilon;
         if (playerHasHorizontalSpeed) {
             gameObject.transform.localScale = new Vector2(Mathf.Sign(myRigidbody.velocity.x), 1f);
+        }
+    }
+
+    private void Die() {
+        if (myBodyCollider.IsTouchingLayers(LayerMask.GetMask("Enemy", "Traps"))) {
+            myAnimator.SetTrigger("Dying");
+            myRigidbody.gravityScale = gravityScaleAtStart;
+            Vector2 deadVelocity = new Vector2(0f, deadVerticalPower);
+            myRigidbody.velocity = deadVelocity;
+            isDead = true;
         }
     }
 

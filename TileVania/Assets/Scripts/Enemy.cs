@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class Enemy : MonoBehaviour {
 
+    const int layerPlayer = 10;
+
     public enum Facing { right, left };
 
     [SerializeField] float speed = 2f;
@@ -22,10 +24,12 @@ public class Enemy : MonoBehaviour {
         myRigidbody.velocity = new Vector2(speed, 0f);
     }
 
-    private void OnTriggerExit2D(Collider2D collision) {
-        speed = -speed;
-        myRigidbody.velocity = new Vector2(speed, 0f);
-        transform.localScale = new Vector2(-(Mathf.Sign(myRigidbody.velocity.x)), 1f);
+    private void OnTriggerExit2D(Collider2D other) {
+        if (other.gameObject.layer != layerPlayer) {
+            speed = -speed;
+            myRigidbody.velocity = new Vector2(speed, 0f);
+            transform.localScale = new Vector2(-(Mathf.Sign(myRigidbody.velocity.x)), 1f);
+        }
     }
 
 }
