@@ -1,6 +1,8 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityStandardAssets.CrossPlatformInput;
 
 public class Player : MonoBehaviour {
@@ -18,7 +20,8 @@ public class Player : MonoBehaviour {
     BoxCollider2D myFeetCollider;
     Animator myAnimator;
     float gravityScaleAtStart = 0f;
-    bool isDead = false;
+    bool isImmobile = false;
+    int finalSceneIndex;
 
     // Use this for initialization
     void Start () {
@@ -27,15 +30,22 @@ public class Player : MonoBehaviour {
         myFeetCollider = GetComponent<BoxCollider2D>();
         myAnimator = GetComponent<Animator>();
         gravityScaleAtStart = myRigidbody.gravityScale;
+        finalSceneIndex = SceneManager.sceneCountInBuildSettings - 1;
+        if (SceneManager.GetActiveScene().buildIndex == finalSceneIndex) {
+            myAnimator.SetTrigger("BeingHappy");
+            isImmobile = true;
+        }
 	}
 	
 	// Update is called once per frame
 	void Update () {
-        if (isDead) { return; }
+        if (isImmobile) { return; }
         Run();
+        Flip();
         Jump();
         ClimbLadder();
         Die();
+        BeHappy();
     }
 
     private void Jump() {
@@ -70,7 +80,6 @@ public class Player : MonoBehaviour {
         myRigidbody.velocity = playerVelocity;
         bool playerHasHorizontalSpeed = Mathf.Abs(myRigidbody.velocity.x) > Mathf.Epsilon;
         myAnimator.SetBool("Running", playerHasHorizontalSpeed);
-        Flip();
     }
 
     private void Flip() {
@@ -86,8 +95,23 @@ public class Player : MonoBehaviour {
             myRigidbody.gravityScale = gravityScaleAtStart;
             Vector2 deadVelocity = new Vector2(0f, deadVerticalPower);
             myRigidbody.velocity = deadVelocity;
-            isDead = true;
+            isImmobile = true;
+            StartCoroutine(HandlePlayerDeath());
         }
+    }
+
+    private void BeHappy() {
+        if (myBodyCollider.IsTouchingLayers(LayerMask.GetMask("LevelExit"))) {
+            myAnimator.SetTrigger("BeingHappy");
+            Vector2 happyVelocity = new Vector2(0.5f, 2f);
+            myRigidbody.velocity = happyVelocity;
+            isImmobile = true;
+        }
+    }
+
+    private IEnumerator HandlePlayerDeath() {
+        yield return new WaitForSeconds(2);
+        FindObjectOfType<GameSession>().ProcessPlayerDeath();
     }
 
 }
