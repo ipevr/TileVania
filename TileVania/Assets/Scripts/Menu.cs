@@ -1,14 +1,27 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
 public class Menu : MonoBehaviour {
 
-    [SerializeField] GameObject lifesPanel;
-    [SerializeField] GameObject heartLifePrefab;
+    [Header("Panels")]
+    [SerializeField] GameObject startButton;
+    [SerializeField] GameObject restartButton;
+    [SerializeField] GameObject congratulationPanel;
 
-    private List<GameObject> heartLife = new List<GameObject>();
+    [Header("Audio Files")]
+    [SerializeField] AudioClip gameWonSound;
+
+    private void Start() {
+        startButton.SetActive(SceneManager.GetActiveScene().buildIndex == 0);
+        restartButton.SetActive(SceneManager.GetActiveScene().buildIndex == SceneManager.sceneCountInBuildSettings - 1);
+        congratulationPanel.SetActive(SceneManager.GetActiveScene().buildIndex == SceneManager.sceneCountInBuildSettings - 1);
+        if (SceneManager.GetActiveScene().buildIndex == SceneManager.sceneCountInBuildSettings - 1) {
+            AudioSource.PlayClipAtPoint(gameWonSound, Camera.main.transform.position);
+        }
+    }
 
     public void StartFirstLevel() {
         SceneManager.LoadScene(1);
@@ -21,14 +34,4 @@ public class Menu : MonoBehaviour {
         }
     }
 
-    public void CreateLifeHearts(int lifes) {
-        for (int i = 0; i < lifes; i++) {
-            heartLife.Add(Instantiate(heartLifePrefab, lifesPanel.transform));
-            Debug.Log(heartLife[i].name);
-        }
-    }
-
-    public void DestroyLifeHeart() {
-        heartLife[0].SetActive(false);
-    }
 }

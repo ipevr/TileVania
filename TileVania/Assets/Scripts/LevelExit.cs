@@ -7,13 +7,16 @@ public class LevelExit : MonoBehaviour {
 
     [SerializeField] float delayTime = 3f;
 
+    [Header("Audio Files")]
+    [SerializeField] AudioClip levelExitSound;
+
     private void OnTriggerEnter2D(Collider2D other) {
+        Destroy(FindObjectOfType<ScenePersist>());
         StartCoroutine(LoadNextLevel());
     }
 
     IEnumerator LoadNextLevel() {
-        // Do some things before entering next level
-
+        AudioSource.PlayClipAtPoint(levelExitSound, Camera.main.transform.position);
         yield return new WaitForSecondsRealtime(delayTime);
         var currentLevelIndex = SceneManager.GetActiveScene().buildIndex;
         SceneManager.LoadScene(currentLevelIndex + 1);

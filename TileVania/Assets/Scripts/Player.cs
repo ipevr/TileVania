@@ -15,6 +15,10 @@ public class Player : MonoBehaviour {
     [SerializeField] float jumpVerticalPower = 7f;
     [SerializeField] float deadVerticalPower = 10f;
 
+    [Header("Audio Files")]
+    [SerializeField] AudioClip playerJumpSound;
+    [SerializeField] AudioClip playerDeathSound;
+
     Rigidbody2D myRigidbody;
     CapsuleCollider2D myBodyCollider;
     BoxCollider2D myFeetCollider;
@@ -55,6 +59,7 @@ public class Player : MonoBehaviour {
         if (CrossPlatformInputManager.GetButtonDown("Jump")) {
             Vector2 jumpAddVelocity = new Vector2(0f, jumpVerticalPower);
             myRigidbody.velocity += jumpAddVelocity;
+            AudioSource.PlayClipAtPoint(playerJumpSound, Camera.main.transform.position);
             return;
         }
     }
@@ -96,6 +101,7 @@ public class Player : MonoBehaviour {
             Vector2 deadVelocity = new Vector2(0f, deadVerticalPower);
             myRigidbody.velocity = deadVelocity;
             isImmobile = true;
+            AudioSource.PlayClipAtPoint(playerDeathSound, Camera.main.transform.position);
             StartCoroutine(HandlePlayerDeath());
         }
     }

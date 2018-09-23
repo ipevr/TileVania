@@ -129,6 +129,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   delayTime: 2
+  levelExitSound: {fileID: 8300000, guid: 25b73ff12b0b1e145983b9e44791c313, type: 3}
 --- !u!198 &198803268235926470
 ParticleSystem:
   m_ObjectHideFlags: 1

@@ -39,7 +39,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1055547602498614}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.14, y: 2.69, z: 0}
+  m_LocalPosition: {x: -17.56, y: -0.9, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -139,6 +139,8 @@ MonoBehaviour:
   climbSpeedVertical: 3
   jumpVerticalPower: 7
   deadVerticalPower: 10
+  playerJumpSound: {fileID: 8300000, guid: 78be296af618dcb4b8f698eb37163c2f, type: 3}
+  playerDeathSound: {fileID: 8300000, guid: b5e9bdd3eb0f347408eb081db5a31112, type: 3}
 --- !u!212 &212840505900712530
 SpriteRenderer:
   m_ObjectHideFlags: 1
@@ -172,7 +174,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -486654859
-  m_SortingLayer: 4
+  m_SortingLayer: 6
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300002, guid: 5df1a540e4485a54699ebf163f935a56, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
