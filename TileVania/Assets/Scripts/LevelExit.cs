@@ -11,7 +11,9 @@ public class LevelExit : MonoBehaviour {
     [SerializeField] AudioClip levelExitSound;
 
     private void OnTriggerEnter2D(Collider2D other) {
-        Destroy(FindObjectOfType<ScenePersist>());
+        if (FindObjectOfType<ScenePersist>()) {
+            Destroy(FindObjectOfType<ScenePersist>().gameObject);
+        }
         StartCoroutine(LoadNextLevel());
     }
 
