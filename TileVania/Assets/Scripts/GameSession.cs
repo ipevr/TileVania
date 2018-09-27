@@ -12,6 +12,7 @@ public class GameSession : MonoBehaviour {
 
     [Header("Panels")]
     [SerializeField] GameObject lifesPanel;
+
     [SerializeField] GameObject scorePanel;
     [SerializeField] GameObject gameOverPanel;
 
@@ -76,6 +77,11 @@ public class GameSession : MonoBehaviour {
     public void AddToScore(int points) {
         score += points;
         ActualizeScoreCounter(score);
+    }
+
+    internal void AddHeart() {
+        heartLife.Add(Instantiate(lifesPrefab, lifesPanel.transform));
+        playerLifes++;
     }
 
 }
