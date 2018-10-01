@@ -9,7 +9,7 @@ public class Heart : MonoBehaviour {
 
     private void OnTriggerEnter2D(Collider2D other) {
         if (other.gameObject.GetComponent<Player>()) {
-            FindObjectOfType<GameSession>().AddHeart();
+            FindObjectOfType<GameSession>().AddLife();
             AudioSource.PlayClipAtPoint(clip, Camera.main.transform.position);
             Destroy(gameObject);
         }

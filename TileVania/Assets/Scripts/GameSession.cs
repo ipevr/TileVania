@@ -12,22 +12,16 @@ public class GameSession : MonoBehaviour {
     [SerializeField] float gameOverWaitTime = 3f;
 
     [Header("Panels")]
-    [SerializeField] GameObject lifesPanel;
-
-    [SerializeField] GameObject scorePanel;
+    [SerializeField] Text lifesText;
+    [SerializeField] Text coinsText;
     [SerializeField] GameObject gameOverPanel;
-
-    [Header("Prefabs")]
-    [SerializeField] GameObject lifesPrefab;
 
     [Header("Audio Files")]
     [SerializeField] AudioClip gameOverSound;
 
-    private List<GameObject> heartLife = new List<GameObject>();
     private int playerLifes = 0;
-    private int score = 0;
-    private Text scoreText;
-
+    private int coins = 0;
+    
     private void Awake() {
         int numGameSessions = FindObjectsOfType<GameSession>().Length;
         if (numGameSessions > 1) {
@@ -39,25 +33,22 @@ public class GameSession : MonoBehaviour {
 
     private void Start() {
         playerLifes = playerLifesAtStart;
-        scoreText = scorePanel.GetComponentInChildren<Text>();
-        CreateLifeHearts(playerLifes);
-        ActualizeScoreCounter(score);
+        ActualizeCoinsCounter(coins);
+        ActualizeLifesCounter(playerLifes);
         gameOverPanel.SetActive(false);
     }
 
-    private void ActualizeScoreCounter(int points) {
-        scoreText.text = points.ToString();
+    private void ActualizeCoinsCounter(int points) {
+        coinsText.text = points.ToString();
     }
 
-    private void CreateLifeHearts(int lifes) {
-        for (int i = 0; i < lifes - 1; i++) {
-            heartLife.Add(Instantiate(lifesPrefab, lifesPanel.transform));
-        }
+    private void ActualizeLifesCounter(int lifes) {
+        lifesText.text = (lifes - 1).ToString();
     }
 
     private void TakeLife() {
         playerLifes--;
-        Destroy(heartLife[playerLifes - 1]);
+        ActualizeLifesCounter(playerLifes);
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 
@@ -78,15 +69,15 @@ public class GameSession : MonoBehaviour {
         }
     }
 
-    public void AddToScore(int points) {
-        score += points;
-        ActualizeScoreCounter(score);
+    public void AddToCoins(int points) {
+        coins += points;
+        ActualizeCoinsCounter(coins);
     }
 
-    public void AddHeart() {
+    public void AddLife() {
         if (playerLifes < playerMaxLifes) {
-            heartLife.Add(Instantiate(lifesPrefab, lifesPanel.transform));
             playerLifes++;
+            ActualizeLifesCounter(playerLifes);
         }
     }
 

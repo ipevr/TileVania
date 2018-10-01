@@ -11,7 +11,7 @@ public class Coin : MonoBehaviour {
 
     private void OnTriggerEnter2D(Collider2D other) {
         if (other.gameObject.GetComponent<Player>()) {
-            FindObjectOfType<GameSession>().AddToScore(pointsPerCoin);
+            FindObjectOfType<GameSession>().AddToCoins(pointsPerCoin);
             AudioSource.PlayClipAtPoint(clip, Camera.main.transform.position);
             Destroy(gameObject);
         }
