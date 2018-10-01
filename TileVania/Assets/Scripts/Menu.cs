@@ -28,10 +28,8 @@ public class Menu : MonoBehaviour {
     }
 
     public void StartMainMenu() {
+        Destroy(FindObjectOfType<GameSession>().gameObject);
         SceneManager.LoadScene(0);
-        foreach (GameSession gameSession in FindObjectsOfType<GameSession>()) {
-            Destroy(gameSession.gameObject);
-        }
     }
 
 }
