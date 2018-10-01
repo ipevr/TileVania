@@ -50,6 +50,7 @@ public class Player : MonoBehaviour {
         ClimbLadder();
         Die();
         BeHappy();
+        Score();
     }
 
     private void Jump() {
@@ -112,6 +113,13 @@ public class Player : MonoBehaviour {
             Vector2 happyVelocity = new Vector2(0.5f, 2f);
             myRigidbody.velocity = happyVelocity;
             isImmobile = true;
+        }
+    }
+
+    private void Score() {
+        if (myBodyCollider.IsTouchingLayers(LayerMask.GetMask("Score"))) {
+            Vector2 hitVelocity = new Vector2(0f, 5f);
+            myRigidbody.velocity = hitVelocity;
         }
     }
 

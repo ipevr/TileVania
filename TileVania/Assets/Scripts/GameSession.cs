@@ -14,6 +14,7 @@ public class GameSession : MonoBehaviour {
     [Header("Panels")]
     [SerializeField] Text lifesText;
     [SerializeField] Text coinsText;
+    [SerializeField] Text scoreText;
     [SerializeField] GameObject gameOverPanel;
 
     [Header("Audio Files")]
@@ -21,6 +22,7 @@ public class GameSession : MonoBehaviour {
 
     private int playerLifes = 0;
     private int coins = 0;
+    private int score = 0;
     
     private void Awake() {
         int numGameSessions = FindObjectsOfType<GameSession>().Length;
@@ -33,22 +35,27 @@ public class GameSession : MonoBehaviour {
 
     private void Start() {
         playerLifes = playerLifesAtStart;
-        ActualizeCoinsCounter(coins);
-        ActualizeLifesCounter(playerLifes);
+        ActualizeCoinsCounter();
+        ActualizeLifesCounter();
+        ActualizeScoreCounter();
         gameOverPanel.SetActive(false);
     }
 
-    private void ActualizeCoinsCounter(int points) {
-        coinsText.text = points.ToString();
+    private void ActualizeCoinsCounter() {
+        coinsText.text = coins.ToString();
     }
 
-    private void ActualizeLifesCounter(int lifes) {
-        lifesText.text = (lifes - 1).ToString();
+    private void ActualizeLifesCounter() {
+        lifesText.text = (playerLifes - 1).ToString();
+    }
+
+    private void ActualizeScoreCounter() {
+        scoreText.text = score.ToString();
     }
 
     private void TakeLife() {
         playerLifes--;
-        ActualizeLifesCounter(playerLifes);
+        ActualizeLifesCounter();
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 
@@ -71,14 +78,19 @@ public class GameSession : MonoBehaviour {
 
     public void AddToCoins(int points) {
         coins += points;
-        ActualizeCoinsCounter(coins);
+        ActualizeCoinsCounter();
     }
 
     public void AddLife() {
         if (playerLifes < playerMaxLifes) {
             playerLifes++;
-            ActualizeLifesCounter(playerLifes);
+            ActualizeLifesCounter();
         }
+    }
+
+    public void AddToScore(int points) {
+        score += points;
+        ActualizeScoreCounter();
     }
 
 }
