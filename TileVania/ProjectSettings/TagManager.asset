@@ -22,7 +22,7 @@ TagManager:
   - Interactables
   - LevelExit
   - Score
-  - 
+  - EnemyOnlyTrigger
   - 
   - 
   - 

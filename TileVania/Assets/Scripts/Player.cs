@@ -50,7 +50,6 @@ public class Player : MonoBehaviour {
         ClimbLadder();
         Die();
         BeHappy();
-        Score();
     }
 
     private void Jump() {
@@ -95,7 +94,7 @@ public class Player : MonoBehaviour {
         }
     }
 
-    private void Die() {
+    public void Die() {
         if (myBodyCollider.IsTouchingLayers(LayerMask.GetMask("Enemy", "Traps"))) {
             myAnimator.SetTrigger("Dying");
             myRigidbody.gravityScale = gravityScaleAtStart;
@@ -116,11 +115,10 @@ public class Player : MonoBehaviour {
         }
     }
 
-    private void Score() {
-        if (myBodyCollider.IsTouchingLayers(LayerMask.GetMask("Score"))) {
-            Vector2 hitVelocity = new Vector2(0f, 5f);
-            myRigidbody.velocity = hitVelocity;
-        }
+    public void Score() {
+        Debug.Log("Hit");
+        Vector2 hitVelocity = new Vector2(0f, 5f);
+        myRigidbody.velocity = hitVelocity;
     }
 
     private IEnumerator HandlePlayerDeath() {

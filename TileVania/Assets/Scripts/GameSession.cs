@@ -23,7 +23,10 @@ public class GameSession : MonoBehaviour {
     private int playerLifes = 0;
     private int coins = 0;
     private int score = 0;
-    
+    private bool playerIsDead = false;
+
+    public bool PlayerIsDead => playerIsDead;
+
     private void Awake() {
         int numGameSessions = FindObjectsOfType<GameSession>().Length;
         if (numGameSessions > 1) {
@@ -41,6 +44,10 @@ public class GameSession : MonoBehaviour {
         gameOverPanel.SetActive(false);
     }
 
+    private void Update() {
+        Debug.Log(playerIsDead);
+    }
+
     private void ActualizeCoinsCounter() {
         coinsText.text = coins.ToString();
     }
@@ -56,6 +63,7 @@ public class GameSession : MonoBehaviour {
     private void TakeLife() {
         playerLifes--;
         ActualizeLifesCounter();
+        playerIsDead = false;
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 
@@ -91,6 +99,10 @@ public class GameSession : MonoBehaviour {
     public void AddToScore(int points) {
         score += points;
         ActualizeScoreCounter();
+    }
+
+    public void PlayerGotDeadlyHit() {
+        playerIsDead = true;
     }
 
 }
