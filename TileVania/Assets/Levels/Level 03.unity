@@ -2430,15 +2430,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 20496028625050300, guid: 712ff54715f6923498994b9f410d525d, type: 3}
       propertyPath: orthographic size
-      value: 6
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4761376226222328, guid: 712ff54715f6923498994b9f410d525d, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -6.344391
+      value: -8.124092
       objectReference: {fileID: 0}
     - target: {fileID: 4761376226222328, guid: 712ff54715f6923498994b9f410d525d, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.502943
+      value: 1.5041819
       objectReference: {fileID: 0}
     - target: {fileID: 114279027496763748, guid: 712ff54715f6923498994b9f410d525d, type: 3}
       propertyPath: m_Instructions.Array.data[4].m_FullHash
